@@ -12,7 +12,7 @@ import {
   SidebarCard,
   LogoImg,
   PopupNavWidth,
-} from './styledComponents'
+} from './styledComponent'
 
 const darkLogoUrl =
   'https://assets.ccbp.in/frontend/react-js/nxt-watch-logo-dark-theme-img.png'
